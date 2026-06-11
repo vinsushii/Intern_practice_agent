@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ShoppingAssistant": {
+      "command": "python",
+      "args": ["server.py"],
+      "cwd": "C:/Users/Julianna/SLU/Internship/MCP"
+    }
+  }
+}

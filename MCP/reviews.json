@@ -1,0 +1,13 @@
+[
+  {"product_id": 1, "reviews": [
+    {"rating": 5, "text": "Great laptop, fast and reliable for daily work."},
+    {"rating": 2, "text": "Battery life is disappointing, drains in 3 hours."}
+  ]},
+  {"product_id": 2, "reviews": [
+    {"rating": 4, "text": "Good value smartphone, camera quality is solid."},
+    {"rating": 5, "text": "Smooth performance, no lag even with multiple apps."}
+  ]},
+  {"product_id": 3, "reviews": [
+    {"rating": 3, "text": "Decent sound quality but uncomfortable after long use."}
+  ]}
+]

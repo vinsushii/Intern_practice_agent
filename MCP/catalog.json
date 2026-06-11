@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Laptop", "price": 999, "stock": "in_stock", "category": "electronics", "seller_id": "S001"},
+  {"id": 2, "name": "Smartphone", "price": 499, "stock": "in_stock", "category": "electronics", "seller_id": "S002"},
+  {"id": 3, "name": "Headphones", "price": 199, "stock": "in_stock", "category": "electronics", "seller_id": "S001"}
+]
